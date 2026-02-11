@@ -2,11 +2,13 @@
 // @name         通用鍵盤翻頁腳本 (左/右鍵)
 // @name:en      General Keyboard Page Turner (Left/Right Keys)
 // @version      1.0
+// @license      MIT
 // @description  使用鍵盤左右鍵翻頁，支持多種語言的匹配文字與屬性
 // @description:en Turn pages using left and right arrow keys, supporting multiple languages and element attributes.
 // @author       Howard Zhen
 // @match        *://*/*
 // @grant        none
+// @namespace    https://github.com/h-o-w-a-r-d/UserScript_General_Keyboard_Page_Turner
 // ==/UserScript==
 
 (function() {
